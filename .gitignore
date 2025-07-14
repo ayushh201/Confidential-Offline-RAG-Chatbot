@@ -1,0 +1,7 @@
+models/
+__pycache__/
+*.pyc
+.env
+embedding_model/
+*.gguf
+*.zip
